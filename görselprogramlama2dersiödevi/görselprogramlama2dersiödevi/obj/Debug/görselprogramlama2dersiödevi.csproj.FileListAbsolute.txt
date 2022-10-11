@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\pc programcılığı\görselprogramlama2dersiödevi\görselprogramlama2dersiödevi\bin\Debug\görselprogramlama2dersiödevi.exe.config
+C:\Users\LENOVO\Desktop\pc programcılığı\görselprogramlama2dersiödevi\görselprogramlama2dersiödevi\bin\Debug\görselprogramlama2dersiödevi.exe
+C:\Users\LENOVO\Desktop\pc programcılığı\görselprogramlama2dersiödevi\görselprogramlama2dersiödevi\bin\Debug\görselprogramlama2dersiödevi.pdb
+C:\Users\LENOVO\Desktop\pc programcılığı\görselprogramlama2dersiödevi\görselprogramlama2dersiödevi\obj\Debug\görselprogramlama2dersiödevi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\pc programcılığı\görselprogramlama2dersiödevi\görselprogramlama2dersiödevi\obj\Debug\görselprogramlama2dersiödevi.Form1.resources
+C:\Users\LENOVO\Desktop\pc programcılığı\görselprogramlama2dersiödevi\görselprogramlama2dersiödevi\obj\Debug\görselprogramlama2dersiödevi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\pc programcılığı\görselprogramlama2dersiödevi\görselprogramlama2dersiödevi\obj\Debug\görselprogramlama2dersiödevi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\pc programcılığı\görselprogramlama2dersiödevi\görselprogramlama2dersiödevi\obj\Debug\görselprogramlama2dersiödevi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\pc programcılığı\görselprogramlama2dersiödevi\görselprogramlama2dersiödevi\obj\Debug\görselprogramlama2dersiödevi.exe
+C:\Users\LENOVO\Desktop\pc programcılığı\görselprogramlama2dersiödevi\görselprogramlama2dersiödevi\obj\Debug\görselprogramlama2dersiödevi.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "görselprogramlama2dersiödevi", "görselprogramlama2dersiödevi\görselprogramlama2dersiödevi.csproj", "{580AE373-803E-4576-B4BB-DF3332F01A82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580AE373-803E-4576-B4BB-DF3332F01A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580AE373-803E-4576-B4BB-DF3332F01A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580AE373-803E-4576-B4BB-DF3332F01A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580AE373-803E-4576-B4BB-DF3332F01A82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0016BF86-0A9B-4E65-B169-EA39323E3AD2}
+	EndGlobalSection
+EndGlobal
